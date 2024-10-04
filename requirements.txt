@@ -1,0 +1,10 @@
+matplotlib>=3.4.2
+numpy>=1.19.5
+pandas>=1.2.4
+tqdm>=4.59.0
+stable-baselines3>=1.4.0
+finrl==0.3.5
+ta>=0.7.0
+scikit-learn>=0.24.2
+tensorflow>=2.4.0
+yfinance>=0.1.54
